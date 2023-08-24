@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>白云|未经审查的自由青少年思想交流</title>
+  
+  <subtitle>白云|青年报告</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-08-24T01:56:44.193Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>白小云</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>白云报告</title>
+    <link href="http://example.com/uncategorized/ad028adb41cc"/>
+    <id>http://example.com/uncategorized/ad028adb41cc</id>
+    <published>2023-08-24T01:56:43.000Z</published>
+    <updated>2023-08-24T01:56:44.193Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
