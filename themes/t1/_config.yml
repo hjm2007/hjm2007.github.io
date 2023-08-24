@@ -251,8 +251,8 @@ disqus:
 gitalk:
   githubID: hjm2007
   repo: hjm2007.github.io
-  ClientID: 
-  ClientSecret:
+  ClientID: 4e246fddea7f9f337949
+  ClientSecret: bc533acfb64ac46b0f85c4fe946628ba089bf4c3
   adminUser: hjm2007
   distractionFreeMode: true
   language: zh-CN
