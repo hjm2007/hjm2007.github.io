@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://cloud.winver.eu.org/
 permalink: :category/:hash
 permalink_defaults:
 pretty_urls:
