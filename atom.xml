@@ -3,11 +3,11 @@
   <title>白云|未经审查的自由青少年思想交流</title>
   
   <subtitle>白云|青年报告</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://cloud.winver.eu.org/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://cloud.winver.eu.org/"/>
   <updated>2023-08-24T01:56:44.193Z</updated>
-  <id>http://example.com/</id>
+  <id>https://cloud.winver.eu.org/</id>
   
   <author>
     <name>白小云</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>白云报告</title>
-    <link href="http://example.com/uncategorized/ad028adb41cc"/>
-    <id>http://example.com/uncategorized/ad028adb41cc</id>
+    <link href="https://cloud.winver.eu.org/uncategorized/ad028adb41cc"/>
+    <id>https://cloud.winver.eu.org/uncategorized/ad028adb41cc</id>
     <published>2023-08-24T01:56:43.000Z</published>
     <updated>2023-08-24T01:56:44.193Z</updated>
     
